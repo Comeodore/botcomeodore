@@ -1,0 +1,6 @@
+pyTelegramBotAPI==3.6.7
+requests==2.22.0
+schedule==0.6.0
+mysql-connector==2.2.9
+mysql-connector-python==8.0.19
+googletrans==2.4.0
