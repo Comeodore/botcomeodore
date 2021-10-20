@@ -49,7 +49,7 @@ def send_echo(message: Message):
 def sticker_id(message: Message):
     print(message.sticker)
 
-schedule.every().day.at("04:30").do(send_daily_message)
+schedule.every().day.at("9:30").do(send_daily_message)
 
 
 class ScheduleMessage():
